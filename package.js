@@ -5,7 +5,7 @@ Package.describe({
 Package.on_use(function (api, where) {
   api.use('jquery');
 
-  api.add_files('chosen.jquery.js', 'client');
+  api.add_files('chosen-create-option.jquery.js', 'client');
   api.add_files('chosen.css', 'client');
   api.add_files('chosen-sprite.png', 'client');
   api.add_files('chosen-sprite@2x.png', 'client');
