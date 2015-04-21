@@ -1,5 +1,5 @@
 Package.describe({
-  name: "chosen",
+  name: "benmgreene:chosen",
   summary: "Chosen is a library for making long, unwieldy select boxes more friendly."
 });
 
